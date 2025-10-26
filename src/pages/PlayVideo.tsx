@@ -25,10 +25,10 @@ export function PlayVideo() {
 
   // Array of URLs for pop-under links
   const randomUrls = [
-    "https://obqj2.com/4/9587058",
-    "https://enviousgarbage.com/HE9TFh",
-    "https://meowadvertising.com/hc70ax5ct2?key=7df760c08ecfe3653c332fbdce13d42a",
-    "https://superficial-work.com/ba3RV.0YPk3Xp/v/b/mOVsJHZqDV0Y0KO/DVQWzkOvD/MK3pLvT/QJ4JNmDyM/4MMozHgS"
+    'https://adclickad.com/get/?spot_id=6089412&cat=25&subid=2067093145',
+    'https://enviousgarbage.com/HE9TFh',
+    'https://otieu.com/4/10055984',
+    'https://viikqoye.com/dc/?blockID=388556'
   ];
 
   useEffect(() => {
